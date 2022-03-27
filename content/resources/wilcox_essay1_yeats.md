@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 59d34fe6-08b4-a60c-b518-e5d500a9863b
 resourcetype: Document
 title: wilcox_essay1_yeats.pdf
 uid: 06ae8fd5-1ecc-bdd0-a5b1-9103b6af7fee

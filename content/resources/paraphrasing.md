@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 3013fc42-6116-da5a-b06b-04ecb92fa820
 resourcetype: Document
 title: paraphrasing.pdf
 uid: e1a451a4-aa95-a811-4f2b-f3ebc0e08de4
