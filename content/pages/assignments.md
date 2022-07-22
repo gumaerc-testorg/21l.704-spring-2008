@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: The assignments section provides information on the three essay assignments,
+  a guide to writing papers, and an example of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 59d34fe6-08b4-a60c-b518-e5d500a9863b
 ---
 
-Guide to Writing Papers ([PDF]({{< baseurl >}}/resources/paper_guide))
+Guide to Writing Papers ({{% resource_link 75086618-a461-d28f-86b0-61e619d94b23 "PDF" %}})
 
 Assignments
 -----------
@@ -25,4 +30,4 @@ Use one of the "leadoffs" provided in the class, and write a cogent, detailed an
 Student Work
 ------------
 
-Martha Angela Wilcox, "A Bemuddled Contrast of Human Mortality with Keatsian Immortality Through Diction, Imagery, and Symbolism In Yeats' “Sailing to Byzantium" ([PDF]({{< baseurl >}}/resources/wilcox_essay1_yeats)) (Courtesy of Martha Angela Wilcox.  Used with permission.)
+Martha Angela Wilcox, "A Bemuddled Contrast of Human Mortality with Keatsian Immortality Through Diction, Imagery, and Symbolism In Yeats' “Sailing to Byzantium" ({{% resource_link 06ae8fd5-1ecc-bdd0-a5b1-9103b6af7fee "PDF" %}}) (Courtesy of Martha Angela Wilcox.  Used with permission.)

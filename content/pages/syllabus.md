@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and information
+  on required texts, writing assignments, and the schedule of lecture topics and key
+  dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3013fc42-6116-da5a-b06b-04ecb92fa820
 ---
@@ -38,7 +43,7 @@ Writing Assignments
 
 On my Web site are what I hope will be useful links on such subjects as "paraphrase," which is to be firmly resisted. As for deadlines, I grant you that they are inconvenient, but I have tried to structure the term so that essays from my two classes do not fall due simultaneously. If you look at the syllabus and see you will be needing an extension, come see me well in advance. I try to be sympathetic, but the excuse that you are "busy" is a non-starter. After all, we are all busy, all the time, here at MIT. If you simply fail to submit the essay at the deadline moment, without prior arrangement, I will record an irremediable F in my grade book. Essays should be placed in the plastic receptacle on my office door. The "due date" extends until I arrive on campus the following morning, usually around noon.
 
-Paraphrasing ([PDF]({{< baseurl >}}/resources/paraphrasing))
+Paraphrasing ({{% resource_link e1a451a4-aa95-a811-4f2b-f3ebc0e08de4 "PDF" %}})
 
 Essay 1: 10-12 pages (one-inch margins, double-spaced, 12 or 14 point font). Due one day after Ses #3.
 
