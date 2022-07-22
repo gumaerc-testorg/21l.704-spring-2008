@@ -8,6 +8,7 @@ file: /courses/21l-704-studies-in-poetry-20th-century-irish-poetry-the-shadow-of
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: wilcox_essay1_yeats.pdf
 uid: 06ae8fd5-1ecc-bdd0-a5b1-9103b6af7fee
 ---
 Example of a completed student assignment. Martha Angela Wilcox, "A Bemuddled Contrast of Human Mortality with Keatsian Immortality Through Diction, Imagery, and Symbolism In Yeats' ?Sailing to Byzantium" (Courtesy of Martha Angela Wilcox.  Used with permission.)
-

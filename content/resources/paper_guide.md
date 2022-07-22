@@ -5,6 +5,7 @@ file: /courses/21l-704-studies-in-poetry-20th-century-irish-poetry-the-shadow-of
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paper_guide.pdf
 uid: 75086618-a461-d28f-86b0-61e619d94b23
 ---
 Guidelines for completing the writing assignments of the course.
-
