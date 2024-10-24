@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines on avoiding the use of paraphrasing in writing assignments.
-file: /courses/21l-704-studies-in-poetry-20th-century-irish-poetry-the-shadow-of-w-b-yeats-spring-2008/e1a451a4aa95a8114f2bf3ebc0e08de4_paraphrasing.pdf
+file: /ol-ocw-studio-app/courses/21l-704-studies-in-poetry-20th-century-irish-poetry-the-shadow-of-w-b-yeats-spring-2008/e1a451a4aa95a8114f2bf3ebc0e08de4_paraphrasing.pdf
 file_size: 14690
 file_type: application/pdf
 learning_resource_types: []
