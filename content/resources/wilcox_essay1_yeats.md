@@ -4,7 +4,7 @@ description: Example of a completed student assignment. Martha Angela Wilcox, "A
   Contrast of Human Mortality with Keatsian Immortality Through Diction, Imagery,
   and Symbolism In Yeats' ?Sailing to Byzantium" (Courtesy of Martha Angela Wilcox.  Used
   with permission.)
-file: /courses/21l-704-studies-in-poetry-20th-century-irish-poetry-the-shadow-of-w-b-yeats-spring-2008/06ae8fd51eccbdd0a5b19103b6af7fee_wilcox_essay1_yeats.pdf
+file: /ol-ocw-studio-app/courses/21l-704-studies-in-poetry-20th-century-irish-poetry-the-shadow-of-w-b-yeats-spring-2008/06ae8fd51eccbdd0a5b19103b6af7fee_wilcox_essay1_yeats.pdf
 file_size: 45041
 file_type: application/pdf
 learning_resource_types:
